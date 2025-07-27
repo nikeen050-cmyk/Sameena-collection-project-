@@ -1,1 +1,0 @@
-export default function About() { return <div>About Sameena Collection: We bring you quality kitchen items with love.</div>; }
